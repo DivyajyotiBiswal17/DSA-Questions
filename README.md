@@ -6,44 +6,44 @@ Welcome to DSA repository
  The solutions are written in C++ and follow optimized approaches whenever possible.
  <br>
  <br>
- 📂 Topics Covered
+ 📂 Topics Covered -
 
-Arrays
+➡️ Arrays
 
-Linked Lists
+➡️ Linked Lists
 
-Stacks and Queues
+➡️ Stacks and Queues
 
-Recursion and Backtracking
+➡️ Recursion and Backtracking
 
-Binary Trees & Binary Search Trees
+➡️ Binary Trees & Binary Search Trees
 
-Graphs
+➡️ Graphs
 
-Dynamic Programming
+➡️ Dynamic Programming
 
-Greedy Algorithms
+➡️ Greedy Algorithms
 
-Sorting & Searching
+➡️ Sorting & Searching
 
-Hashing
+➡️ Hashing
 
-Bit Manipulation
+➡️ Bit Manipulation
 
-Strings
+➡️ Strings
 
-Miscellaneous
+➡️ Miscellaneous
 
-🤝 Contributing
+🤝 Contributing -
 
 Contributions are welcome! Follow these steps:
 
-Fork the repository.
+1. Fork the repository.
 
-Create a new branch (git checkout -b feature-branch).
+2. Create a new branch (git checkout -b feature-branch).
 
-Add your solution with a proper file name.
+3. Add your solution with a proper file name.
 
-Commit and push (git push origin feature-branch).
+4. Commit and push (git push origin feature-branch).
 
-Create a Pull Request.
+5. Create a Pull Request.
